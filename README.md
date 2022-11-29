@@ -25,9 +25,9 @@
 ### Задание 1
 
 
-1. `[установка gitlab-ce](https://ru.linuxcapable.com/how-to-install-configure-gitlab-on-debian-11-bullseye/)`
-2. `![пустой проект](https://user-images.githubusercontent.com/117297288/204612258-d36350e8-9ece-4526-a12e-cf2407f4741d.png)`
-3. `![установленный раннер](https://user-images.githubusercontent.com/117297288/204611813-fbdce6e8-dba3-40bd-aac6-79a63a8f8d2d.png) `
+1. [установка gitlab-ce](https://ru.linuxcapable.com/how-to-install-configure-gitlab-on-debian-11-bullseye/)
+2. ![пустой проект](https://user-images.githubusercontent.com/117297288/204612258-d36350e8-9ece-4526-a12e-cf2407f4741d.png)
+3. ![установленный раннер](https://user-images.githubusercontent.com/117297288/204611813-fbdce6e8-dba3-40bd-aac6-79a63a8f8d2d.png)
 
 ---
 
